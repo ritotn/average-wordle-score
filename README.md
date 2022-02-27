@@ -1,2 +1,2 @@
-# average_wordle_score
+# average-wordle-score
 Calculate your current average Wordle score!
